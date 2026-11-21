@@ -10,4 +10,4 @@ Repositório destinado a organizar os projetos, exercícios e trabalhos prático
 
 1. Clonar o repositório:
    ```bash
-   git clone [https://github.com/omaildonuno-git/istec.git](https://github.com/omaildonuno-git/istec.git)
+   git clone https://github.com/omaildonuno-git/istec.git
