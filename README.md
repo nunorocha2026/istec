@@ -4,7 +4,7 @@ Repositório destinado a organizar os projetos, exercícios e trabalhos prático
 
 ## Estrutura do Repositório
 
-- **`intrucao-a-programacao/`** — Trabalhos e projetos da disciplina de Introdução à Programação (ex.: Sistema de Gestão de Visitas Hospitalares em Java em consola, com menu textual, validação de dados, controlo do limite de visitas ativas por doente, listas, iteração, recursividade e ordenação).
+- **`introducao-a-programacao/`** — Trabalhos e projetos da disciplina de Introdução à Programação (ex.: Sistema de Gestão de Visitas Hospitalares em Java em consola, com menu textual, validação de dados, controlo do limite de visitas ativas por doente, listas, iteração, recursividade e ordenação).
 
 ## Como Utilizar
 
